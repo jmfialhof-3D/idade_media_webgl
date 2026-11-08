@@ -1,0 +1,12 @@
+{
+"companyName": "JFialho | Designer | Professor",
+"productName": "Idade Média | AV",
+"dataUrl": "idade_media_simples_webgl.data.unityweb",
+"wasmCodeUrl": "idade_media_simples_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "idade_media_simples_webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
